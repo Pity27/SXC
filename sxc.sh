@@ -62,6 +62,7 @@ then
     echo -e $g 'Password anda benar'
 else
     echo -e $red 'upss anda noobz'
+exit
 fi
 
 sleep 1
